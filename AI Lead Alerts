@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AI Lead Alerts</title>
+    <link>https://wanbeiz.github.io/ai-leads-feed/</link>
+    <description>New remote AI/ML startup leads</description>
+    <!-- New <item> entries go here -->
+  </channel>
+</rss>
